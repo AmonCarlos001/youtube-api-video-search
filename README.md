@@ -33,7 +33,7 @@ Para testar o projeto:
 3.  Abra o arquivo `script.js` e insira sua chave na variável `API_KEY`.
 4.  Abra o `index.html` no seu navegador.
 
-<<<<<<< HEAD
+<<<<<<<< HEAD
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 									*Projeto desenvolvido por Amon Carlos Ribeiro dos Santos - Estudante do 4º Semestre de ADS.*
 =======
