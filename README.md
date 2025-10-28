@@ -33,10 +33,11 @@ Para testar o projeto:
 3.  Abra o arquivo `script.js` e insira sua chave na variável `API_KEY`.
 4.  Abra o `index.html` no seu navegador.
 
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/03670bd0-bef6-4e22-a045-5777b00c4b8c" />
+
 <<<<<<<< HEAD
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-									*Projeto desenvolvido por Amon Carlos Ribeiro dos Santos - Estudante do 4º Semestre de ADS.*
-=======
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 				                                                  					                *Projeto desenvolvido por Amon Carlos Ribeiro dos Santos - Estudante do 4º Semestre de ADS.*
 >>>>>>> 8ba494220ca4c48001788fa160518e2cf506fa74
