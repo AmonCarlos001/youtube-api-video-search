@@ -50,15 +50,13 @@ h1 {
 .estiloPlayer {
     max-width: 100%; 
     position: relative;
-    padding-bottom: 56.25%; 
-    height: 0; 
     overflow: hidden;
     border: none;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
     margin: 0; 
+    height: 250px;
 }
-
 
 @media (min-width: 768px) {
     #videos-container {
