@@ -35,8 +35,6 @@ Para testar o projeto:
 
 <img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/03670bd0-bef6-4e22-a045-5777b00c4b8c" />
 
-<<<<<<<< HEAD
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 				                                                  					                *Projeto desenvolvido por Amon Carlos Ribeiro dos Santos - Estudante do 4º Semestre de ADS.*
